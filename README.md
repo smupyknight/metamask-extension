@@ -9,7 +9,7 @@ To learn how to develop MetaMask-compatible applications, visit our [Developer D
 
 To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
 
-## Building locally
+## Building locally Hmm... test commit
 
 - Install [Node.js](https://nodejs.org) version 10 and the latest available npm@6
     - If you are using [nvm](https://github.com/creationix/nvm#installation) (recommended) running `nvm use` will automatically choose the right node version for you.
